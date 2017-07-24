@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+syntax: glob
+
+
+.idea
+.hgignore
+GitDemo1.iml
