@@ -10,5 +10,6 @@ public class GitTest {
     public static void main(String[] args) {
 
         name="wangcai";
+        System.out.println(name);
     }
 }
